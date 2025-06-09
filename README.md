@@ -1,6 +1,6 @@
 ## AI Content Disclaimers
 
-As an AI developer and contributor to the AI community, I maintain this repository with transparency about AI usage and a commitment to ethical AI practices. This repository contains content created with AI assistance, primarily for educational purposes.
+As an AI developer and contributor to the AI community, I maintain this repository with transparency about AI usage and a commitment to ethical AI practices. This repository is an acknowledgment of some content being created with AI assistance, primarily for educational purposes.
 
 ### How AI is Used in This Repository
 
